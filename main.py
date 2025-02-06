@@ -23,4 +23,4 @@ favorite_language = "javascript"
 print(favorite_language.lstrip())
 
 # Removing Prefixes
-nostarch = "https://www.nostarch.com"
+nostarch = "https://www.nostarch.com "
